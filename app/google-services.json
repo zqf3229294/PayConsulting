@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "288488557045",
+    "firebase_url": "https://payconsulting-8a47c.firebaseio.com",
+    "project_id": "payconsulting-8a47c",
+    "storage_bucket": "payconsulting-8a47c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288488557045:android:c7ec6c4aef631e1f2538bc",
+        "android_client_info": {
+          "package_name": "edu.gatech.payconsulting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "288488557045-81s509g1dnorbovgrkbk5av3ndkjfbgf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB64p7ycQ2BhiUMf0r5ei1aAycd4IC0HnY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "288488557045-81s509g1dnorbovgrkbk5av3ndkjfbgf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
