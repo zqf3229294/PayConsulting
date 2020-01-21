@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "288488557045-9gtl3v9t6oc5ou4fokb73lon1lbt32io.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.gatech.payconsulting",
+            "certificate_hash": "cc04ed534944b236b00656d227432d060c8923ae"
+          }
+        },
+        {
           "client_id": "288488557045-81s509g1dnorbovgrkbk5av3ndkjfbgf.apps.googleusercontent.com",
           "client_type": 3
         }
