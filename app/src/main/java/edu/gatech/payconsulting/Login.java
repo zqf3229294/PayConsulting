@@ -20,7 +20,6 @@ public class Login extends AppCompatActivity {
     Button login_btn;
     String email, password;
     FirebaseAuth fAuth;
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -32,7 +31,6 @@ public class Login extends AppCompatActivity {
         fAuth = FirebaseAuth.getInstance();
 
         login_btn.setOnClickListener(new View.OnClickListener() {
-
             @Override
             public void onClick(View v) {
                 email = emailText.getText().toString().trim();
