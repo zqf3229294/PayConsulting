@@ -10,15 +10,23 @@
         android:id="@+id/AcceptBtn"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Accept Consulting"
-        tools:layout_editor_absoluteX="16dp"
-        tools:layout_editor_absoluteY="449dp" />
+        android:text="Accept"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.154"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.692" />
 
     <Button
         android:id="@+id/ConsultBtn"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="New Consulting"
-        tools:layout_editor_absoluteX="241dp"
-        tools:layout_editor_absoluteY="449dp" />
+        android:text="NewConsulting"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.829"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.692" />
 </androidx.constraintlayout.widget.ConstraintLayout>
